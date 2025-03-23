@@ -10,7 +10,7 @@ Team Members :
 - Parimi Sunitha, 230001061, CSE
 
 ## Introduction
-This project contains three Python scripts that interact with a Bitcoin RPC node using the `bitcoinrpc` library. The scripts perform various operations such as wallet creation, address generation, UTXO handling, raw transaction creation, signing, and broadcasting. The main tasks of each script include working with different address types (Legacy, SegWit) and performing Bitcoin transactions on the Testnet.
+This project contains three Python scripts that interact with a Bitcoin RPC node using the `bitcoinrpc` library. The scripts perform various operations such as wallet loading, address generation, UTXO handling, raw transaction creation, signing, and broadcasting. The main tasks of each script include working with different address types (Legacy, SegWit) and performing Bitcoin transactions on the Testnet.
 
 ## Requirements 
 Before running the scripts, ensure you have the following:
